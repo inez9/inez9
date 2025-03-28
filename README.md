@@ -1,6 +1,7 @@
 ### Hi, I'm Inez! 👋
 
 Electrical Engineering and Computer Science enthusiast sharing my journey and learning experiences across EE and CS.
+😅 Haven't updated this in a while but will in the future.
 
 🎓 Studying EECS at the University of California, Berkeley (2023-2027)
 
